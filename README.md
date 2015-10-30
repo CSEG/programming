@@ -9,4 +9,6 @@ Full code listings accompanying two papers from the November 2015 of the [CSEG R
     - Python code in the notebooks licensed under the terms of Creative Commons Attribution [CC BY 4.0] (http://creativecommons.org/licenses/by/4.0/).
 
 
-More details coming soon. Articles available to the public from February 2016 in [here] (http://csegrecorder.com/editions/).
+Articles available to the public from February 2016 in [here] (http://csegrecorder.com/editions/).
+
+More details coming soon....
